@@ -22,3 +22,15 @@ Tradução: Ele é capaz de traduzir texto entre diferentes idiomas.
 
 
 ## ALGUMAS IMAGENS CRIADAS USANDO O COPILOT: 
+
+!["bebendo hamburguer](https://github.com/IvoJucaBezerra/Explorando-os-Recursos-de-IA-Generativa-com-Copilot-e-OpenAI/blob/main/outputs/gata-bebendo-burguer.jpg)
+
+![gata-flamengo-bandeira](https://github.com/IvoJucaBezerra/Explorando-os-Recursos-de-IA-Generativa-com-Copilot-e-OpenAI/blob/main/outputs/gata-burger-bandeira.jpg)
+
+![gatas-maracana-flamengo](https://github.com/IvoJucaBezerra/Explorando-os-Recursos-de-IA-Generativa-com-Copilot-e-OpenAI/blob/main/outputs/gatinhas-burger-refri-maraca.jpg)
+
+## ALGUMAS DESCRIÇÕES DAS IMAGENS:
+
+![](https://github.com/IvoJucaBezerra/Explorando-os-Recursos-de-IA-Generativa-com-Copilot-e-OpenAI/blob/main/outputs/copilot%20-%20descricao%20gato%20bebendo%20burguer.png)
+
+![](https://github.com/IvoJucaBezerra/Explorando-os-Recursos-de-IA-Generativa-com-Copilot-e-OpenAI/blob/main/outputs/copilot%20-%20descri%C3%A7%C3%A3o%20de%20imagem%20fla%2019.png)
