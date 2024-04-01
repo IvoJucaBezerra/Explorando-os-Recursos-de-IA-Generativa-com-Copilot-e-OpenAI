@@ -1,5 +1,6 @@
 # Explorando-os-Recursos-de-IA-Generativa-com-Copilot-e-OpenAI
-Usando o copilot
+
+Usando o [copilot](https://copilot.microsoft.com/) Documentação: https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/12-generative-ai.html
 
 O Copilot é uma ferramenta de assistência inteligente que pode ajudar em várias tarefas e cenários. Algumas das funcionalidades do Copilot incluem:
 
